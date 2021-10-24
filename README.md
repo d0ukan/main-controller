@@ -2,11 +2,11 @@
 
 Main source controller with RF - GPS project
 
-working with **13.56 MHz** rf tags
+working with **`13.56 MHz`** rf tags
 
 must be required Libs : 
-- MFRC522
-- RF24
+- [MFRC522](https://github.com/miguelbalboa/rfid)
+- [RF24](https://github.com/maniacbug/RF24)
 
 ### to use with rf unique , need to change
 ```
